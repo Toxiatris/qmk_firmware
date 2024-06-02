@@ -5,7 +5,7 @@
     "maintainer": "qmk",
     "usb": {
         "vid": "0x4B50",
-        "pid": "0x6670",
+        "pid": "0x4650",
         "device_version": "0.0.1"
     },
     "processor": "RP2040",
