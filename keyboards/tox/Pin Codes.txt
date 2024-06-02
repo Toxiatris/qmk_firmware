@@ -1,0 +1,11 @@
+RX  - D2
+TX  - D3
+SDA - D1
+SCL - D0
+D9  - B5
+D11 - B7
+MI  - B3
+MO  - B2
+SCK - B1
+A1  - F6
+A0  - F7

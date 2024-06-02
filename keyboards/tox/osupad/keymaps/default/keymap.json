@@ -1,0 +1,15 @@
+{
+    "keyboard": "tox/osupad",
+    "keymap": "default",
+    "layout": "LAYOUT_all",
+    "layers": [
+        [
+            "KC_NO",
+            "KC_NO", "KC_Z",
+            "KC_NO", "KC_X",
+            "KC_NO", "KC_ESC",
+            "KC_NO", "KC_NO",
+            "KC_NO", "KC_NO"
+        ]
+    ]
+}

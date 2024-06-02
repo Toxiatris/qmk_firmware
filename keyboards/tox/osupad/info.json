@@ -1,0 +1,40 @@
+{
+    "manufacturer": "Justin G",
+    "keyboard_name": "OsuPad",
+    "maintainer": "KeysNPads",
+    "bootloader": "caterina",
+    "debounce": 5,
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["F7", null],
+            ["F6", "D2"],
+            ["B1", "D3"],
+            ["B2", "D1"],
+            ["B3", "D0"],
+            ["B6", "B5"]
+        ]
+    },
+    "processor": "atmega32u4",
+    "usb": {
+        "device_version": "0.0.1",
+        "pid": "0x2320",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_all": {
+            "layout": [
+                {"label":"F7", "matrix": [0, 0], "x":0, "y":0},
+                {"label":"F6", "matrix": [1, 0], "x":0, "y":1}, {"label":"D2", "matrix": [1, 1], "x":2, "y":1},
+                {"label":"B1", "matrix": [2, 0], "x":0, "y":2}, {"label":"D3", "matrix": [2, 1], "x":2, "y":2},
+                {"label":"B2", "matrix": [3, 0], "x":0, "y":3}, {"label":"D1", "matrix": [3, 1], "x":2, "y":3},
+                {"label":"B3", "matrix": [4, 0], "x":0, "y":4}, {"label":"D0", "matrix": [4, 1], "x":2, "y":4},
+                {"label":"B6", "matrix": [5, 0], "x":0, "y":5}, {"label":"B5", "matrix": [5, 1], "x":2, "y":5}
+            ]
+        }
+    }
+}
